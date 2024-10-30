@@ -1,0 +1,2 @@
+# DittoTest
+Tester for Ditto
